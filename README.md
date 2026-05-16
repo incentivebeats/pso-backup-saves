@@ -30,7 +30,7 @@ $HOME/Games/pso_saves/
 Edit `.env` and set your source/destination paths.
 
 ```bash
-CP .env.example .env
+cp .env.example .env
 vim .env
 ```
 
