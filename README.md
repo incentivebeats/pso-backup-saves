@@ -2,8 +2,10 @@
 
 Small local backup script for Phantasy Star Online saves.
 
-Technically works for anything, but this was built with PSO and Linux in mind. I assume this will work fine on macOS as well, but I have no idea how or if this works on Windows.
-
+Technically adaptable to work for anything, but this was built with PSO in mind.  
+  
+I assume this will work fine on macOS as well, but I have no idea how or if this works on Windows.  
+  
 It backs up:
 
 - Dreamcast V2 Flycast VMU files
