@@ -2,7 +2,7 @@
 
 Small local backup script for Phantasy Star Online saves.
 
-Technically works for anything, but this was built with PSO in mind.
+Technically works for anything, but this was built with PSO and Linux in mind. I assume this will work fine on macOS as well, but I have no idea how if this works on Windows.
 
 It backs up:
 
