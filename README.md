@@ -92,9 +92,3 @@ $HOME/.config/systemd/user/pso-save-backup.timer
 ```
 
 The timer runs every 15 minutes.
-
-## Notes
-
-The included `.env` is an example-style config.
-
-Do not commit real S3 secrets.
