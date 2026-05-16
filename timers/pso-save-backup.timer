@@ -1,0 +1,11 @@
+[Unit]
+Description=Run PSO save backup every 15 minutes
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=15min
+AccuracySec=1min
+Unit=pso-save-backup.service
+
+[Install]
+WantedBy=timers.target
